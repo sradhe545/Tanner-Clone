@@ -18,7 +18,6 @@ including the Mazama Wares  of handcrafted glassware etc.
 - React
 - HTML
 - CSS
-- Bootstrap
 - Chakra UI
 
 ## Homepage
